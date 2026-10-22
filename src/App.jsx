@@ -70,7 +70,7 @@ function Hero(){
     <div className="dots"/><div className="dots2"/>
     <div className="reg" style={{left:28,top:90}}/><div className="reg" style={{right:28,top:90}}/><div className="reg" style={{left:28,bottom:30}}/><div className="reg" style={{right:28,bottom:30}}/>
     <div className="wrap">
-      <div className="tag"><b/>Open to summer internships</div>
+      <div className="tag"><b/>Open to summer internships · CI/CD LIVE</div>
       <h1>{letters('Muhammad')}<br/><em>{letters('Haseeb')}</em>{' '}{letters('Ahmad')}</h1>
       <div className="role">MERN stack developer who builds <Role/></div>
       <p className="lede">Final-year CS student in Lahore. I build full-stack apps and ship them.</p>
