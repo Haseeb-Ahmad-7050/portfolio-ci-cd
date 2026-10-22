@@ -10,7 +10,7 @@ test('production build contains the portfolio HTML', async () => {
   )
 
   assert.ok(html.includes('<div id="root">') || html.includes('id="root"'))
-  assert.ok(html.includes('/intentionally-wrong-path/'))
+  assert.ok(html.includes('/portfolio-ci-cd/'))
 })
 
 test('production build contains JavaScript and CSS assets', async () => {
