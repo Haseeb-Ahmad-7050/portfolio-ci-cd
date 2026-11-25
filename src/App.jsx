@@ -76,7 +76,7 @@ function Hero(){
       <p className="lede">Final-year CS student in Lahore. I build full-stack apps and ship them.</p>
       <div className="cta"><a className="btn f" href="#projects">View projects →</a><a className="btn" href="#contact">Get in touch</a></div>
     </div>
-    <svg className="badge" viewBox="0 0 150 150"><defs><path id="c" d="M75 75m-58 0a58 58 0 1 1 116 0a58 58 0 1 1-116 0"/></defs><text><textPath href="#c">OPEN TO INTERNSHIPS • LAHORE • 2026 •</textPath></text><path d="M65 75h20M75 65v20" stroke="#ff5a1f"/></svg>
+    <svg className="badge" viewBox="0 0 150 150"><defs><path id="c" d="M75 75m-58 0a58 58 0 1 1 116 0a58 58 0 1 1-116 0"/></defs><text><textPath href="#c">OPEN TO INTERNSHIPS & JOBS • LAHORE • 2026 •</textPath></text><path d="M65 75h20M75 65v20" stroke="#ff5a1f"/></svg>
   </header>
 }
 
